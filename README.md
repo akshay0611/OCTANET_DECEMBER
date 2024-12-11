@@ -11,14 +11,14 @@ Welcome to **Brew Haven**, a premium coffee shop website that showcases our deli
 - [License](#license)
 - [Contributors](#contributors)
 
-## ✨ Features
+## ✨ Features <a id="features"></a>
 - **Responsive Design**: The website is designed to be fully responsive, ensuring a great experience on both desktop and mobile devices. 📱💻
 - **Smooth Scrolling**: Navigation links smoothly scroll to their respective sections. 🔄
 - **Animations**: Elements animate into view as you scroll down the page. 🌀
 - **Testimonials Slider**: A carousel showcasing customer testimonials using Swiper.js. 🎡
 - **Dynamic Menu**: A section dedicated to displaying the coffee shop's menu with pricing. 🍽️
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used <a id="technologies-used"></a>
 - **HTML5**: Structure of the website.
 - **CSS3**: Styling the website with modern design principles.
 - **JavaScript**: Adding interactivity and functionality.
@@ -26,12 +26,12 @@ Welcome to **Brew Haven**, a premium coffee shop website that showcases our deli
 - **GSAP**: For animations and smooth transitions.
 - **Swiper.js**: For the testimonials slider.
 
-## 📥 Installation
+## 📥 Installation <a id="installation"></a>
 To get started with the project, follow these steps:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/brew-haven.git
+git clone https://github.com/akshay0611/OCTANET_DECEMBER.git
 ```
 
 ### 2. Navigate to the project directory:
@@ -44,12 +44,12 @@ cd brew-haven
 npm install
 ```
 
-## 🚀 Usage
+## 🚀 Usage <a id="usage"></a>
 To run the project in development mode, use the following command:
 ```bash
 npm run dev
 ```
-This will start a local development server. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the website.
+This will start a local development server. Open your browser and navigate to [http://localhost:5173/](http://localhost:5173/) to view the website.
 
 ### To build the project for production, use:
 ```bash
@@ -61,7 +61,7 @@ npm run build
 npm run preview
 ```
 
-## 🤝 Contributing
+## 🤝 Contributing <a id="contributing"></a>
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request. 💡
 
 1. Fork the repository. 🍴
@@ -79,13 +79,15 @@ Contributions are welcome! If you have suggestions for improvements or new featu
    ```
 5. Open a pull request. 🔄
 
-## 📜 License
+## 📜 License <a id="license"></a>
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
-## 🧑‍🤝‍🧑 Contributors
+## 🧑‍🤝‍🧑 Contributors <a id="contributors"></a>
 We would like to thank the following contributors for their valuable work on Brew Haven:
 
-- **[Akshay Kumar](https://github.com/akshay0611)** - Creator and lead developer
 
+ <a href="https://github.com/akshay0611/OCTANET_DECEMBER/graphs/contributors">  
+  <img src="https://contrib.rocks/image?repo=akshay0611/OCTANET_DECEMBER" />  
+</a>  
 
 If you'd like to contribute, feel free to fork the repository and submit your pull request!
